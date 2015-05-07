@@ -1,15 +1,8 @@
 <html>
-	<head>
-	<title>Background-Image</title>
-		<style>
-			body {
-			background-image: url(http://puu.sh/hEj63/80569e46e9.png);            
-			background-size: 100%;
-			background-origin: content;
-			background-repeat: no-repeat;
-			}
-		</style>
-	</head>
-<body>
-</body>
-</html>
+	<title> 
+		Hello 
+	</title>
+	
+	<p>
+		Wow!
+	<p>
