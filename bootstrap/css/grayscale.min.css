@@ -130,7 +130,7 @@ a:focus {
   margin-top: 100;
   margin-bottom: 100;
   color: white;
-  background: url(/img/intro-bg.gif) no-repeat bottom center scroll;
+  background: url(/bootstrap/img/intro-bg.gif) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
